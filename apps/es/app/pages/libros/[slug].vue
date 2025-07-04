@@ -32,15 +32,6 @@ useSeoMeta({
 </script>
 
 <template>
-  <template v-if="status === 'success' && !page">
-    <UError
-      :error="{
-        statusCode: 404,
-        statusMessage: 'Página no encontrada',
-        message: 'La página que estás buscando no existe.'
-      }"
-    />
-  </template>
   <Article
     v-if="page"
     :title="page.title"
