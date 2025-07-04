@@ -19,7 +19,7 @@ export const getConfig = (allEnv: any) => {
 	const config = {
 		siteUrl: getValue(env, "siteUrl"),
 		brevo: {
-			key: getValue(env, "brevoKey"),
+			key: atob(getValue(env, "brevoKey")),
 			url: getValue(env, "brevoUrl"),
 			listId: Number(getValue(env, "brevoListId")),
 		},
