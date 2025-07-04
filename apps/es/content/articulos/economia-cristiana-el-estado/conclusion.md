@@ -1,0 +1,44 @@
+---
+title: Conclusión
+description: "Análisis sobre el rol legítimo del Estado según la Biblia, abordando temas como justicia, defensa, servicios públicos y burocracia. Reflexión sobre reformas posibles vs utópicas"
+date: 2022-01-07
+type: 'subseries'
+serie: economia-cristiana-el-estado
+category: teologia
+authors:
+  - albert
+translation:
+  summary: "Escrito por Gary North, en el volumen 4 de la obra magna de Gary North llamada Christian Economics: Scholar’s Edition"
+  url: https://www.garynorth.com/public/20626.cfm
+  authors:
+   - gary-north
+tags:
+  - "burocracia"
+  - "economia"
+  - "estado"
+  - "gary-north"
+  - "impuestos"
+image:
+  src: https://res.cloudinary.com/dpzgupe2y/image/upload/v1749602760/washington-dc_qwufk5.jpg
+  alt: Capitolio de Washington D.C.
+  descr: Capitolio de Washington D.C.
+  cc: https://pixabay.com/photos/washington-dc-capitol-building-85531/
+  hide: true
+---
+
+> Si hubiere pleito entre algunos, y acudieren al tribunal para que los jueces los juzguen, éstos absolverán al justo, y condenarán al culpable.  Y si el delincuente mereciere ser azotado, entonces el juez le hará echar en tierra, y le hará azotar en su presencia; según su delito será el número de azotes.  Se podrá dar cuarenta azotes, no más; no sea que, si lo hirieren con muchos azotes más que éstos, se sienta tu hermano envilecido delante de tus ojos. (Deuteronomio 25: 1-3)
+
+Este pasaje deja en claro que Dios autoriza al estado a imponer violencia a criminales y rebeldes convictos. La teoría política moderna insiste en que esta violencia es monopolística. La Biblia no enseña esto. El vengador de sangre tenía derecho a la violencia contra alguien de quien sospechaba haber asesinado, incluso cuando esa persona mató a otra persona por accidente. No es legal que alguien se defienda de un vengador de sangre. Tenía que ser rápido de pies para evadir legalmente al vengador de sangre. La ley mosaica estableció las ciudades de refugio como una forma de mitigar y socavar el poder del vengador de la sangre. Por lo tanto, las familias tienen cierta autoridad bíblica para imponer violencia, pero en la época del Nuevo Testamento esto obviamente es limitado. No hay más vengadores de sangre. Jesucristo cumplió el oficio del vengador de sangre, quien también era el pariente redentor. Cristo en el juicio final completará ese oficio. Por eso es imperativo que Cristo, pariente-redentor, te defienda contra Cristo, vengador de sangre.
+
+La Biblia es clara sobre la legitimidad del gobierno civil. Hice todo lo posible para dejar esto claro en la introducción de esta sección. Luego dediqué tres capítulos a temas relacionados con las actividades legítimas del Estado. Se trata de justicia, defensa nacional, burocracia e impuestos, y cuestiones relacionadas con el tema del dominio eminente.
+
+Cubrí los servicios públicos. Estos incluyen sistemas de agua, sistemas de alcantarillado y energía eléctrica. Éstos hacen posibles las sociedades urbanas. Estos hacen posibles grandes concentraciones de población. Las ciudades han existido desde que tenemos registros históricos. Roma tenía un asombroso sistema de acueductos que hizo posible una ciudad de un millón de personas en los días de Jesucristo. Pero Roma era un gobierno centralizado. Fue cada vez más tiránico. Los acueductos lo hicieron posible. ¿Es centralización lo que el gobierno debería hacer con nuestro dinero de impuestos? No he visto ninguna monografía detallada sobre este tema. No estoy listo para escribir uno hoy. Sería un ejercicio de utopía. Las ciudades existen y están creciendo. Dependen de los servicios públicos. Lo mejor que podemos decir de ellos es que los reguladores compensarán las presiones políticas de los votantes y el deseo de lucro de los directores de servicios públicos. En comparación con todos los demás problemas que enfrenta el mundo moderno, los aspectos teóricos y prácticos asociados con los servicios públicos son mínimos. No son una gran parte de los presupuestos familiares de la clase media, que tiene mayoría de votos.
+
+En este capítulo he tratado temas en los que está claro que la Biblia autoriza las actividades de los gobiernos civiles. He dejado en claro que la Biblia testifica en contra de la idea de que el gobierno civil es ilegítimo. El gobierno civil tiene funciones legítimas. Estas funciones hacen posible el orden social, que hace posible la división del trabajo. Esto significa que el proceso de subasta del mercado libre depende de la aplicación de las leyes por parte del gobierno civil. La Biblia enseña esto. La economía clásica enseña esto. Todas las principales escuelas de economía moderna enseñan esto. El pequeño puñado de economistas que se identifican a sí mismos como anarcocapitalistas no han desarrollado monografías y tratados completos para mostrar cómo la sociedad podría funcionar sin gobiernos civiles. La Biblia deja en claro que los gobiernos civiles tienen una autoridad superior al mercado libre en las áreas limitadas que cubro en la Parte 6.
+
+La teoría económica del libre mercado puede ofrecer algunas ideas sobre las operaciones del gobierno civil. Pero la economía de libre mercado se basa en el principio de la subasta de ganadores de ofertas altas. Las altas ofertas que ganan en la política democrática son los votos. Se distribuyen sobre esta base: un ciudadano, un voto. Operacionalmente, la puesta en común de estos votos en forma de comités de acción política y grupos de presión hace posible la compra del apoyo de los políticos para algunos tipos de legislación. Ha habido algunas ideas positivas de los economistas que arrojan luz sobre estos arreglos. Esa escuela de pensamiento conocida como teoría de la elección pública ha logrado algunos avances. Pero, en general, la economía tiene poco que decir sobre el funcionamiento de instituciones que no operan en términos de subasta. Esto incluye a la iglesia, el estado y la familia. Si vender algo es inherentemente inmoral y, por lo tanto, ilegal, entonces, sea cual sea el artículo, no será fácil de analizar mediante la analogía del proceso de subasta. Los economistas pueden analizar los mercados negros con precisión, pero no pueden analizar fácilmente las operaciones de las organizaciones sin fines de lucro, especialmente el estado, que posee un casi monopolio de la violencia.
+
+Es una buena idea que un economista cristiano comprenda lo que enseña la Biblia sobre asuntos relacionados con el gobierno civil. Incluso si su trabajo se percibe como utópico, es prudente que dedique tiempo y esfuerzo a analizar aspectos del gobierno que probablemente no se reformarán durante su vida. He pasado gran parte de mi vida haciendo tales análisis. Este libro es una prueba. Me tomó cuatro décadas hacer mi tarea para escribir este libro. Pero un hombre sabio comprende la diferencia entre el utopismo que no se puede lograr en la historia, las reformas políticas improbables que probablemente no se alcanzarán durante su vida y las reformas que son políticamente posibles durante su vida. Incluso si no se pueden reformar hoy, porque la economía es estable, si la economía ya no puede sostener ciertos programas, caerán por su propio peso. Eso es lo que sucedió en la China comunista en 1979, y lo que sucedió en la Rusia comunista en 1991. Es prudente dedicar tiempo y dinero a un análisis de cómo debería funcionar un arreglo institucional bíblico en el mundo actual. De esta manera, puede ser posible diseñar un plan práctico para llegar desde donde estamos hoy hasta donde podríamos estar, y deberíamos estar, mañana si el sistema existente de gobierno civil alguna vez pierde legitimidad como resultado de los resultados negativos de su programa obligatorio. Los economistas cristianos deberían desarrollar monografías, programas de reforma y materiales educativos que puedan usarse, especialmente a nivel local, en un momento de crisis económica, cuando los votantes estén reconsiderando sus presuposiciones sobre cómo debería funcionar el gobierno civil. La vieja regla es cierta: no podemos vencer a algo sin nada.
+
+Convencer a las personas para que cambien su perspectiva suele ser una tarea infructuosa. Es caro cambiar incluso una idea. Esta regla es cierta: no podemos cambiar solo una cosa. Esto es especialmente cierto en el caso de las ideas, al menos para las personas que se toman las ideas en serio. Nuestra primera tarea es siempre cambiar nuestras propias ideas. Tenemos que calcular el costo. Luego tenemos que desarrollar materiales educativos que sientan las bases para que otras personas cambien sus ideas cuando sea el momento adecuado. La palabra griega del Nuevo Testamento para ese tiempo es kairos. Se contrasta con cronos. Chronos se trata de calendarios. Kairos trata sobre momentos especiales de oportunidad. Se unifican en momentos únicos de cambios significativos.
+

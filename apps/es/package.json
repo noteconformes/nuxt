@@ -1,0 +1,23 @@
+{
+	"name": "es",
+	"version": "0.0.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev --port 3001",
+		"generate": "nuxt generate",
+		"preview": "nuxt preview",
+		"postinstall": "nuxt prepare",
+		"lint": "eslint .",
+		"tsc": "npx nuxi typecheck",
+		"clean": "rm -rf node_modules && rm -rf .turbo && rm -rf .nuxt && rm -rf .output && rm -rf .dist && rm -rf .data",
+		"biome:check": "biome check --write"
+	},
+	"dependencies": {
+		"ui": "*"
+	},
+	"devDependencies": {
+		"ui": "*"
+	}
+}
