@@ -24,6 +24,7 @@ export default defineNuxtConfig({
 			brevoKey: process.env.NUXT_PUBLIC_BREVO_KEY,
 			brevoUrl: process.env.NUXT_PUBLIC_BREVO_URL,
 			brevoListId: process.env.NUXT_PUBLIC_BREVO_LIST_ID,
+			googleTagManagerId: process.env.NUXT_PUBLIC_GOOGLE_TAG_MANAGER
 		},
 	},
 
@@ -58,7 +59,7 @@ export default defineNuxtConfig({
   scripts: {
     registry: {
       googleTagManager: {
-        id: process.env.NUXT_PUBLIC_GOOGLE_TAG_MANAGER_ID ?? ''
+        id: process.env.NUXT_PUBLIC_GOOGLE_TAG_MANAGER ?? ''
       }
     }
   }
