@@ -22,7 +22,7 @@ export default defineNuxtConfig({
 		public: {
 			siteUrl: process.env.NUXT_PUBLIC_SITE_URL,
 			brevoKey: process.env.NUXT_PUBLIC_BREVO_KEY,
-			brevoUrl: process.env.NUXT_PUBLIC_BREVO_URL,
+			brevoUrl: 'mabye-this-is-the-issue',
 			brevoListId: process.env.NUXT_PUBLIC_BREVO_LIST_ID,
 			googleTagManagerId: process.env.NUXT_PUBLIC_GOOGLE_TAG_MANAGER
 		},
