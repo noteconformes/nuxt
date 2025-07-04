@@ -55,7 +55,17 @@ jobs:
           version: ${{ matrix.node }}
           cache: ${{ steps.pkgman.outputs.cache }}
 
+      - name: Cache Node modules
+        id: node-modules
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-modules-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-modules
+
       - name: Install dependencies
+        if: ${{ steps.node-modules.outputs.cache-hit != 'true' }}
         run: ${{ steps.pkgman.outputs.package_manager }} install
 
       - name: Generate
