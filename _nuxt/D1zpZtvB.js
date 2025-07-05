@@ -1,0 +1,1 @@
+import{_ as e}from"./DlAUqK2U.js";import{c as t,d as s}from"./171OD8ia.js";const c={},o={class:"flex items-center justify-center"};function r(a,n){return s(),t("div",o," This is a test page What status loads? 👈 ")}const f=e(c,[["render",r]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as s}from"./JLbocSYx.js";import{C as c,G as r,d as l,w as n,f as o,aE as m,S as f}from"./171OD8ia.js";import{_ as p}from"./B7z964n0.js";const U=c({__name:"docs",setup(i){return(a,u)=>{const e=s,t=m,_=p;return l(),r(_,null,{default:n(()=>[o(t,null,{default:n(()=>[o(e,null,{default:n(()=>[f(a.$slots,"default")]),_:3})]),_:3})]),_:3})}}});export{U as default};

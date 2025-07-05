@@ -1,0 +1,1 @@
+import{C as t,q as o,aH as s,c as a,d as c}from"./171OD8ia.js";const r={class:"flex items-center justify-center"},u=t({__name:"[slug]",setup(n){const e=o();return s(`${e.path.replace("/books","/libros")}`,{replace:!0}),(i,l)=>(c(),a("div",r," Re-redireccionando... "))}});export{u as default};
