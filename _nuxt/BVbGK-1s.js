@@ -1,1 +1,0 @@
-import{C as t,q as a,aH as s,c,d as o}from"./9WE_D0M_.js";const r={class:"flex items-center justify-center"},p=t({__name:"[slug]",setup(n){const e=a();return s(`${e.path.replace("/articles","/articulos")}`,{replace:!0}),(i,l)=>(o(),c("div",r," Re-redireccionando... "))}});export{p as default};
