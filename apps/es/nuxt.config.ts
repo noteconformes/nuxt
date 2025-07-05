@@ -11,7 +11,7 @@ export default defineNuxtConfig({
 		"@nuxtjs/google-fonts",
 		"@nuxt/scripts",
 	],
-	ssr: false,
+	// ssr: false,
 
 	devtools: {
 		enabled: true,
@@ -35,7 +35,7 @@ export default defineNuxtConfig({
 	},
 
 	devServer: {
-		port: 3010,
+		port: 3001,
 	},
 
 	future: {
