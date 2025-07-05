@@ -2,7 +2,8 @@
 import type { ContentNavigationItem } from "@nuxt/content";
 
 import { getConfig } from "~/config/constants";
-import { findPageBreadcrumb, mapContentNavigation } from "#ui-pro/utils";
+import { mapContentNavigation } from "#ui-pro/utils";
+import { findPageBreadcrumb } from '@nuxt/content/utils'
 
 definePageMeta({ layout: "docs" });
 
@@ -12,9 +13,11 @@ const { data: page, status } = await useAsyncData(route.path, () =>
 );
 const navigation = inject<Ref<ContentNavigationItem[]>>("navigation");
 const breadcrumb = computed(() =>
-	mapContentNavigation(findPageBreadcrumb(navigation?.value, page.value)).map(
-		({ icon, ...link }) => link,
-	),
+	mapContentNavigation(
+		findPageBreadcrumb(navigation?.value, page.value?.path, {
+			indexAsChild: true,
+		}),
+	).map(({ icon, ...link }) => link),
 );
 const env = getConfig(useRuntimeConfig());
 
